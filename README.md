@@ -1,0 +1,2 @@
+# myFirstProgram
+simple JS program
